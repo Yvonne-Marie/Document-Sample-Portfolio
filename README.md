@@ -2,7 +2,7 @@ Here are documentation samples that I have created using different tools and edi
 Some documents are re-created from my earlier work after redacting and re-editing proprietory content.   
 
 ## Documentation Samples 
-[Sample Feature Specification]()   
+[Sample Feature Specification](https://raw.githubusercontent.com/Yvonne-Marie/Document-Sample-Portfolio/main/USB_Feature_Doc.pdf)   
 This is a feature document that explains the concept, architecture of the system, requirements and implementation details of the new feature.   
 It is for use of developers, testers, architects and product owners.   
 It is a PDF document written in the **DITA** model using **OxygenXML Editor**.   
