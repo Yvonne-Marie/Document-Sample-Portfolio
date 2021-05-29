@@ -8,7 +8,7 @@ It is for use of developers, testers, architects and product owners.
 It is a PDF document written in the **DITA** model using **OxygenXML Editor**.   
 
 
-[Sample API Documentation](https://github.com/marie13-test/user-assistance-marie/wiki/Sample-API-reference-and-user-manuals)   
+[Sample API Documentation](https://github.com/Yvonne-Marie/Document-Sample-Portfolio/wiki/Sample-API-Reference-and-User-manuals)   
 They describe component API C-functions for use by developers and integrators of the interfacing components.   
 The Reference Manual details the syntax, parameters, return values and specific actions performed by the APIs.   
 The User Manual describes the overall functionality and usage of the APIs.   
